@@ -1,0 +1,5 @@
+# Volcanic Eruption Dynamics & Pyroclastic Hazard Analysis
+# Python dependencies
+
+panda3d>=1.10.13      # Real-time 3D engine (rendering, scene graph, tasks)
+numpy>=1.23           # Vectorized particle physics & terrain math

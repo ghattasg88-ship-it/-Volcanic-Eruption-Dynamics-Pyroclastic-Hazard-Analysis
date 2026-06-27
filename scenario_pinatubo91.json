@@ -1,0 +1,12 @@
+{
+  "name": "Pinatubo 1991 - climactic VEI 6",
+  "description": "Scenario approximating the 15 June 1991 climactic eruption of Mount Pinatubo, the second-largest eruption of the 20th century. Sustained ~35-40 km Plinian column, extensive pyroclastic flows filling valleys to >10 km, and global ash/aerosol injection. VEI 6.",
+  "vei": 6,
+  "plume_height_km": 38.0,
+  "vent_velocity": 360.0,
+  "vent_radius": 140.0,
+  "heim_coefficient": 0.19,
+  "collapse_height": 3000.0,
+  "wind": [20.0, 6.0, 0.0],
+  "historical_note": "Erupted ~10 km3 of material; pyroclastic flows travelled up to 16 km from the vent. The very low Heim coefficient reflects exceptionally mobile, voluminous PDCs."
+}

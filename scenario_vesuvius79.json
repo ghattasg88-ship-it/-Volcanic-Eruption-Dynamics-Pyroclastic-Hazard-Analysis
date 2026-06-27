@@ -1,0 +1,12 @@
+{
+  "name": "Vesuvius AD 79 - Plinian analogue",
+  "description": "Scenario tuned to the AD 79 eruption of Vesuvius that buried Pompeii and Herculaneum. The eruption began with a sustained Plinian column (Pliny the Younger's eyewitness account) followed by repeated column collapses generating the pyroclastic density currents that killed the inhabitants of Herculaneum and Pompeii. VEI 5.",
+  "vei": 5,
+  "plume_height_km": 32.0,
+  "vent_velocity": 320.0,
+  "vent_radius": 110.0,
+  "heim_coefficient": 0.21,
+  "collapse_height": 2600.0,
+  "wind": [16.0, -4.0, 0.0],
+  "historical_note": "PDCs reached Herculaneum (~7 km) within minutes; later surges reached Pompeii (~10 km). The low Heim coefficient reflects the high mobility of these flows."
+}

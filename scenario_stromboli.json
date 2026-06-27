@@ -1,0 +1,11 @@
+{
+  "name": "Stromboli - persistent mild explosive activity",
+  "description": "Low-intensity Strombolian scenario: short-lived bursts of incandescent ballistic ejecta and minor ash, no sustained column or column-collapse PDCs. VEI 1-2. Useful for testing the ballistic and small-plume behaviour.",
+  "vei": 2,
+  "plume_height_km": 4.0,
+  "vent_velocity": 120.0,
+  "vent_radius": 40.0,
+  "heim_coefficient": 0.32,
+  "collapse_height": 600.0,
+  "wind": [5.0, 2.0, 0.0]
+}

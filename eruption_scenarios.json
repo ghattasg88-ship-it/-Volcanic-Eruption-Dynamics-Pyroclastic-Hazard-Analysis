@@ -1,0 +1,17 @@
+{
+  "name": "Mount Generic - VEI 4 Plinian reference eruption",
+  "description": "Default reference scenario approximating a sub-Plinian to Plinian eruption of a 2800 m stratovolcano. Parameters chosen to be physically representative of a VEI 4 event (e.g. comparable in scale to Eyjafjallajokull 2010 or Pinatubo precursor activity).",
+  "vei": 4,
+  "plume_height_km": 25.0,
+  "vent_velocity": 280.0,
+  "vent_radius": 90.0,
+  "heim_coefficient": 0.24,
+  "collapse_height": 2200.0,
+  "wind": [12.0, 3.0, 0.0],
+  "notes": {
+    "vent_velocity": "Exit velocity at the vent in m/s; Plinian eruptions 150-400 m/s",
+    "heim_coefficient": "H/L energy-line ratio for PDC runout; 0.2-0.3 typical for mobile flows",
+    "collapse_height": "Height of column collapse above vent (m); drives PDC energy budget",
+    "wind": "Mean tropospheric wind vector [vx, vy, vz] m/s controlling ash dispersal"
+  }
+}
